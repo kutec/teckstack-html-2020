@@ -2,5 +2,10 @@
   "name": "js-legruu",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bootstrap": "^4.3.1",
+    "jquery": "1.9.1 - 3",
+    "popper.js": "^1.14.7"
+  }
 }
