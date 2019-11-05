@@ -3,8 +3,11 @@
 }
 
 main > section{
-  background: #eee;
   padding: 2rem 0 3rem;
+}
+
+.section--bg{
+  background: #eee;
 }
 
 a.i-ng{
