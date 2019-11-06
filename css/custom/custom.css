@@ -9,7 +9,14 @@ main > section{
 .section--bg{
   background: #eee;
 }
-
+.sidebar--sticky{
+    height: 100%;
+    min-height: 0;
+    overflow: auto;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 5%;
+}
 a.i-ng{
   background: rgba(195, 14, 46, .75);
 }
